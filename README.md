@@ -3,8 +3,8 @@
 - I’m currently learning to produce questionable code
 - 💞️ I’m looking to collaborate on nothing, please...
 - 📫 How to reach me: don't, please just don't
-- 😄 Pronouns: can't/code
-- ⚡ Fun fact: I'd rather not.
+-  Pronouns: can't/code
+-  Fun fact: I'd rather not.
 
 <!---
 JesusChristTheLast/JesusChristTheLast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
